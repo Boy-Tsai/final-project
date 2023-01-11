@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/114141277/211734002-61ef7593-0c93-43f3-b4f1-5c6273ed0c90.png)
 ![image](https://user-images.githubusercontent.com/114141277/211734036-02a5980e-0477-439c-b6ed-1b56394a097e.png)
 ![image](https://user-images.githubusercontent.com/114141277/211734069-773cb40c-da5a-4457-bcff-cfab778ac7d4.png)
-# 12/22:修改 w 與 fitness解釋/輸入節點統一命名/修改世代演化
+# 1/5:修改 w 與 fitness解釋/輸入節點統一命名/修改世代演化
 ![image](https://user-images.githubusercontent.com/114141277/211735226-a75d2dc9-2d34-4f4b-ba26-15ae2a2507fb.png)
 ![image](https://user-images.githubusercontent.com/114141277/211735240-a320e58c-4ef9-4325-88b0-53044b67255a.png)
 ![image](https://user-images.githubusercontent.com/114141277/211735257-ae4e77e1-5f80-4e7c-818a-1e6e7cd9b0af.png)
