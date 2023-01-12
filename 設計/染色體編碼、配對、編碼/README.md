@@ -9,6 +9,8 @@
 ![image](https://user-images.githubusercontent.com/114141277/211735734-50dd9b08-ec37-4499-9488-f9ec3f794c26.png)
 # 程式碼: 透過同源基因組交叉配對節點
 ![image](https://user-images.githubusercontent.com/114141277/211737719-96581a15-50f2-404d-883f-56aca8e606a0.png)
+# 程式碼:配對後的節點參數，由亂數決定是否配對成功使用getattr取出基因參數，回傳出新的基因節點
+![image](https://user-images.githubusercontent.com/114141277/212020347-a75645b2-4de4-48b9-abf8-639361ac7271.png)
 # 突變的編碼方式
 ![image](https://user-images.githubusercontent.com/114141277/211993616-2f335822-4836-46a2-af42-77b521564bf9.png)
 # 程式碼: 隨機選擇節點及連接
