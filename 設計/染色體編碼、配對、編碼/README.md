@@ -1,6 +1,6 @@
 # 1/5
 # NEAT演算法的基因編碼
-![image](https://user-images.githubusercontent.com/114141277/211738426-92c0c2f2-e60e-44e8-b4bf-285acb8584ed.png)
+![image](https://user-images.githubusercontent.com/114141277/212020719-02c13708-0b3b-47b7-8631-94fc4c621dfb.png)
 # 程式碼: NEAT演算法的激活函數與聚合函數(編碼方式)
 ![image](https://user-images.githubusercontent.com/114141277/211735973-6ec2b48d-2c64-4800-8927-cfb2a66f1ee3.png)
 # 程式碼: 串接輸入節點/隱藏節點/輸出節點成為基因組，並在 node_evals函式中紀錄"基因組/激活函數/聚合函數(sum)/bias/response/inputs"
