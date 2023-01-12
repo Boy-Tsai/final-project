@@ -10,6 +10,6 @@
 # 程式碼: 透過同源基因組交叉配對節點
 ![image](https://user-images.githubusercontent.com/114141277/211737719-96581a15-50f2-404d-883f-56aca8e606a0.png)
 # 突變的編碼方式
-![image](https://user-images.githubusercontent.com/114141277/211735759-ebe5a82b-9a94-412c-8022-3fe68fab7e5b.png)
+![image](https://user-images.githubusercontent.com/114141277/211993616-2f335822-4836-46a2-af42-77b521564bf9.png)
 # 程式碼: 隨機選擇節點及連接
 ![image](https://user-images.githubusercontent.com/114141277/211737754-3140aaf3-c614-4443-96da-fdc7ea0a678c.png)
