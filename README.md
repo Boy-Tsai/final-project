@@ -13,6 +13,6 @@
 
 1.https://github.com/CodeReclaimers/neat-python
 
-2.https://neat-python.readthedocs.io/en/latest/neat_overview.htmlc
+2.https://neat-python.readthedocs.io/en/latest/
 
 3.https://github.com/techwithtim/NEAT-Pong-Python.git
